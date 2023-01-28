@@ -18,7 +18,6 @@ Tech stack:
 
 
 ## R2 DataFlow Diagram
-![DFD for Cocktail](./docs/DFD.png)
 <img src="./docs/DFD.png" alt="DFD for Cocktail">
 
 ## R3 Application Architecture Diagram 
