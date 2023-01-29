@@ -23,7 +23,19 @@ Tech stack:
 ## R3 Application Architecture Diagram 
 <img src="./docs/AAD.png" alt="AAD for Cocktail">
 
-## R4
+## R4 User Stories
+**Who**: The bartender. Big spirit selection, incentivised for selling branded products, upselling capabilities to the max.<br>
+**Age**: Mid 20's to mid 30's <br>
+**Occupation**: Bartender <br>
+**Location** Inner suburbs, CBD <br>
+**What is the problem this user requires solving**: As a bartender I am looking for a comprehensive, easy to use recipe book that I can use quickly and discreetly to get recipes while I am mid-service behind a busy bar.
+
+**Who**:The company rep/spirits ambassador <br>
+**Age**: 20-40 <br>
+**Occupation**: Sales <br>
+**Location**: Specified regions within the metropolitan area
+**What is the problem this user requires solving**:
+
 
 ## R5
 
