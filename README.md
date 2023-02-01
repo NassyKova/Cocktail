@@ -7,7 +7,7 @@ https://www.thecocktaildb.com/api.php
 
 
 # Cocktail App
-## T3iiA1A Anastasia Kova, Patrick Hamer
+## T3iiA1A Anastasia Dyakova, Patrick Hamer
 
 ## R1 Description of our website
 The purpose of this website is to provide an easy to use cocktail recipe book for liquor distributors to provide to bartenders as a means of promoting their product. Arming bartenders with easy access to a multitude of recipes will allow them to keep the distributor's products front of mind and more importantly front of house and in the customer's hands.
