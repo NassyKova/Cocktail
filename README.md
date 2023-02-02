@@ -79,4 +79,5 @@ __Color Pallette__
 ## R6
 <img src="./docs/trello-day-one.png" alt="Trello board Day 1">
 ## R6
-<img src="./docs/trello-day-one.png" alt="Trello board Day 1">
+<img src="./docs/Trello/trello1.png" alt="Trello board Day 1">
+<img src="./docs/Trello/trello2.png" alt="Trello board Day 1">
