@@ -1,12 +1,13 @@
-# Cocktail
-
-!!PRIVATE!!
+# Shkr! app
+__________
+# TO DO before submitting
+- change to public
+- check spelling
+________________
 
 ## API 
 https://www.thecocktaildb.com/api.php
 
-
-# Cocktail App
 ## T3iiA1A Anastasia Dyakova, Patrick Hamer
 
 ## R1 Description of our website
@@ -24,7 +25,7 @@ Tech stack:
 <img src="./docs/DFD.png" alt="DFD for Cocktail">
 
 ## R3 Application Architecture Diagram 
-<img src="./docs/AAD.png" alt="AAD for Cocktail">
+<img src="./docs/shkr!_v3.png" alt="AAD for Cocktail">
 
 ## R4 User Stories
 **Who**: The bartender. Big spirit selection, incentivised for selling branded products, upselling capabilities to the max.<br>
@@ -43,10 +44,17 @@ Tech stack:
 **Age**: 18+<br>
 **Occupation**: Any<br>
 **Location**: Home<br>
+<img src="./docs/userStory3.jpg" alt="User Story 3"  width="300"><br>
 **What is the problem this user requires solving**: Creating a cocktail with what I have at home. This could be to use up a particular bottle I have lying around and want to get rid of, creating a potion to imbibe with what I have on hand, exploring new ways of enjoying old favourites or impressing my friends with perfectly crafted beverages. Being able to make drinks that, at a base level, meet the standard I could expect in any bar I visit. I need to be able to search for ingredient-specific drinks or simply browse a library on the day before the party to see what I can conjur up to wow my guests.
 
 
-## R5
+## R5 Design
+__Pinterest board__
+<img src="./docs/pinterest.png" alt="Pinterest Ideas"><br><br>
+__Color thoughts__<br>
+Dark theme, forrest green <br><br>
+__Color Pallette__
+<img src="./docs/colors.png" alt="Color Pallette">
 
 ## R6
 <img src="./docs/trello-day-one.png" alt="Trello board Day 1">
