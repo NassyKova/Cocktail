@@ -18,7 +18,21 @@ The main target audiences for this app are:
 - **Bartenders** so they can keep a brand's products front and center, providing them with different experiences for the customer every time they visit
 - **Home cocktail enthusiasts** encouraging those with a mixological passion to explore new ways to create delicious drinks all the while keeping a strong presence of brand in their recipes.
 
-Tech stack:
+Tech stack:<br>
+| Application and Data | Utilities | DevOps | Business Tools|
+|:--------------------:|:---------:|:------:|:-------------:|
+|HTML 5                |JWT        |Github  |Discord        |
+|CSS                   |NPM        |Git     |Zoom           |
+|JavaScript ES6        |Postman    |VSCode  |WhatsApp       |
+|React                 |Jest       |        |Trello         |
+|Express               |           |
+|NodeJS                |
+|MongoDB               |
+|Mongoose              |
+|Helmet                |
+|Netlify               |
+|Railway               |
+|Atlas                 |
 
 ## R2 DataFlow Diagram
 The first DFD presented to the educators was admittedly not the greatest:<br>
@@ -68,7 +82,7 @@ The first draft:
 **What is the problem this user requires solving**: Creating a cocktail with what I have at home. This could be to use up a particular bottle I have lying around and want to get rid of, creating a potion to imbibe with what I have on hand, exploring new ways of enjoying old favourites or impressing my friends with perfectly crafted beverages. Being able to make drinks that, at a base level, meet the standard I could expect in any bar I visit. I need to be able to **search for ingredient-specific drinks**, **look up specific drinks** or simply **browse a library** on the day before the party to see what I can conjur up to wow my guests. Information needs to be easily obtained and site feel needs to be intuitive so as to be able to be used on the fly. <br>
 
 
-## R5 Design
+## R5 Wireframes for multiple standard screen sizes, created using industry standard software
 __Pinterest Board__
 <img src="./docs/pinterest.png" alt="Pinterest Board"><br/><br/>
 __Color ideas__<br/>
@@ -77,8 +91,8 @@ __Color Pallette__
 <img src="./docs/colors.png" alt="Color Pallette">
 
 
-## R6
-<img src="./docs/trello-day-one.png" alt="Trello board Day 1">
-## R6
+## R6 Screenshots of your Trello board throughout the duration of the project
+Throughout the course of this assignment we allowed ourselves at least half an hour each working day to have a standup via phone or video call. This allowed us to keep abreast of what one another were doing, explore more intricate concepts and ideas as well as hash out some of the more obscure aspects of the app such as colours and design. Zoom was particularly efficient in this instance as it allowed for screen sharing.
+
 <img src="./docs/Trello/trello1.png" alt="Trello board Day 1">
 <img src="./docs/Trello/trello2.png" alt="Trello board Day 1">
