@@ -25,7 +25,7 @@ Tech stack:<br>
 |CSS                   |NPM        |Git     |Zoom           |
 |JavaScript ES6        |Postman    |VSCode  |WhatsApp       |
 |React                 |Jest       |        |Trello         |
-|Express               |           |
+|Express               |Supertest  |
 |NodeJS                |
 |MongoDB               |
 |Mongoose              |
@@ -33,6 +33,8 @@ Tech stack:<br>
 |Netlify               |
 |Railway               |
 |Atlas                 |
+|bcrypt                |
+|Axios                 |
 
 ## R2 DataFlow Diagram
 The first DFD presented to the educators was admittedly not the greatest:<br>
