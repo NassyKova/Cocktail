@@ -1,48 +1,26 @@
 # Shkr! app
-
----
-
+__________
 # TO DO before submitting
-
 - change to public
 - check spelling
+________________
 
----
-
-## API
-
+## API 
 https://www.thecocktaildb.com/api.php
 
 ## T3iiA1A Anastasia Dyakova, Patrick Hamer
 
 ## R1 Description of our website
-
 The purpose of this website is to provide an easy to use cocktail recipe book for liquor distributors to provide to bartenders as a means of promoting their product. Arming bartenders with easy access to a multitude of recipes will allow them to keep the distributor's products front of mind and more importantly front of house and in the customer's hands.
 The website includes a library of drink recipes, searchable by ingredient. Upon searching for an ingredient a random drink using that ingredient will be provided with recipe, picture and method. The app will also provide admin users the ability to remove certain drinks from the randomizing function so that specific drinks can be excluded from the search results, as well as manipulating the database to maintain brands across different recipes.
 
 The main target audiences for this app are:
-
 - **Bartenders** so they can keep a brand's products front and center, providing them with different experiences for the customer every time they visit
 - **Home cocktail enthusiasts** encouraging those with a mixological passion to explore new ways to create delicious drinks all the while keeping a strong presence of brand in their recipes.
 
-|Tech stack:<br>|
-|---|
-
-| Front End     | Back End      |Deployment| Utilities   | DevOps | Business Tools|
-|:-------------:|:-------------:|:--------:|:-----------:|:------:|:-------------:|
-|HTML 5         |JavaScript ES6 |Netlify   |Diagrams.net |Github  |Discord        |
-|CSS            |Express        |Railway   |NPM          |Git     |Zoom           |
-|JavaScript ES6 |NodeJS         |Atlas     |Postman      |VSCode  |WhatsApp       |
-|React          |MongoDB        |Axios     |Jest         |        |Trello         |
-|               |Mongoose       |          |Supertest    |
-|               |bcrypt         |          |Balsamiq     |
-|               |Helmet         |          |Lucichart    |
-|               |JWT            |
-
-
+Tech stack:
 
 ## R2 DataFlow Diagram
-
 The first DFD presented to the educators was admittedly not the greatest:<br>
 <img src="./docs/DFDs/DFDmkI.png" alt="1st DFD attempt">
 <img src="./docs/DFDs/FeedbackMkI.png" alt="1st Feedback">
@@ -55,28 +33,24 @@ Still however, while the structure had improved the information pertaining to ac
 Some of these were oversights simply from being up all night staring at it, and some were due to a disorganized files. Whatever the case, with the assistance of our educators the final result was approved on 02/02 much to our delight. The final DFD is compiled thusly
 <img src="./docs/DFDs/ShkrDFD.png" alt="Finalized DFD">
 
-## R3 Application Architecture Diagram
-
+## R3 Application Architecture Diagram 
 The first draft:
 <img src="./docs/AAD/AAD01.png" alt="AAD v01">
 <img src="./docs/AAD/AAD_Feedback_01.png" alt="Feedback 01">
-
 - Explained the connection between Front end and Back end
 - External API moved to Back end section
 - Added using tools
-  <img src="./docs/AAD/AAD02.png" alt="AAD v0.2">
-  <img src="./docs/AAD/AAD_Feedback_02.png" alt="Feedback 02">
+<img src="./docs/AAD/AAD02.png" alt="AAD v0.2">
+<img src="./docs/AAD/AAD_Feedback_02.png" alt="Feedback 02">
 - User moved to outisde of Front and Back structure
 - API clarified as a 3rf party
-  <img src="./docs/AAD/AAD.png" alt="Add finall">
+<img src="./docs/AAD/AAD.png" alt="Add finall">
 
 ## R4 User Stories
-
 **Who**: The bartender. Big spirit selection, incentivised for selling branded products, upselling capabilities to the max.<br>
 **Age**: Mid 20's to mid 30's <br>
 **Occupation**: Bartender <br>
 **Location** Inner suburbs/CBD Bars <br>
-<img src="./docs/userStory1.png" alt="User Story 1"  height="300"><br>
 **What is the problem this user requires solving**: As a bartender I am looking for a comprehensive, easy to use recipe book that I can use quickly and discreetly to get recipes while I am mid-service behind a busy bar. I need to be able to **search by an ingredient** base in case the customer requests so as well as **browse the library** to furhter my knowledge over my lunch break. Certain drinks that may be inappropriate/illegal in my region should be **able to be removed** from search results.
 
 **Who**:The company rep/spirits ambassador <br>
@@ -89,20 +63,31 @@ The first draft:
 **Age**: 18+<br>
 **Occupation**: Any<br>
 **Location**: Home<br>
-<img src="./docs/userStory3.png" alt="User Story 3"  width="300"><br>
+<img src="./docs/userStory3.jpg" alt="User Story 3"  width="300"><br>
 **What is the problem this user requires solving**: Creating a cocktail with what I have at home. This could be to use up a particular bottle I have lying around and want to get rid of, creating a potion to imbibe with what I have on hand, exploring new ways of enjoying old favourites or impressing my friends with perfectly crafted beverages. Being able to make drinks that, at a base level, meet the standard I could expect in any bar I visit. I need to be able to **search for ingredient-specific drinks**, **look up specific drinks** or simply **browse a library** on the day before the party to see what I can conjur up to wow my guests. Information needs to be easily obtained and site feel needs to be intuitive so as to be able to be used on the fly. <br>
 
-## R5 Design
+## R5 Wireframes
+### Sitemap
+<img src="./docs/wireframes/Map.png" alt="Site Map"><br/><br/>
+### Wireframes size 1024px
+<img src="./docs/wireframes/1024.png" alt="Wireframes 1024"><br/><br/>
+### Wireframes size 768px
+<img src="./docs/wireframes/768.png" alt="Wireframes 768"><br/><br/>
+### Wireframes size 320px
+<img src="./docs/wireframes/320.png" alt="Wireframes 320"><br/><br/>
 
-**Pinterest Board**
+
+
+## R6 Design
+__Pinterest Board__
 <img src="./docs/pinterest.png" alt="Pinterest Board"><br/><br/>
-**Color ideas**<br/>
+__Color ideas__<br/>
 Dark theme, green forrest<br/><br/>
-**Color Pallette**
+__Color Pallette__
 <img src="./docs/colors.png" alt="Color Pallette">
 
-## R6
 
+## R7 
 <img src="./docs/trello-day-one.png" alt="Trello board Day 1">
 ## R6
 <img src="./docs/trello-day-one.png" alt="Trello board Day 1">
