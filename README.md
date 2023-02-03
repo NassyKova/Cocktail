@@ -15,8 +15,9 @@ The purpose of this website is to provide an easy to use cocktail recipe book fo
 The website includes a library of drink recipes, searchable by ingredient. Upon searching for an ingredient a random drink using that ingredient will be provided with recipe, picture and method. The app will also provide admin users the ability to remove certain drinks from the randomizing function so that specific drinks can be excluded from the search results, as well as manipulating the database to maintain brands across different recipes.
 
 The main target audiences for this app are:
-- **Bartenders** so they can keep a brand's products front and center, providing them with different experiences for the customer every time they visit
+- **Bartenders** so they can keep a brand's products front and center, providing them with different experiences for the customer every time they visit, as well as ensuring consistency between colleagues.
 - **Home cocktail enthusiasts** encouraging those with a mixological passion to explore new ways to create delicious drinks all the while keeping a strong presence of brand in their recipes.
+- **Brand Ambassadors/Spirit reps** so they can promote their brand and encourage a consistency of drinks throughout venues, as well as having an easy promotional tool
 
 |Tech stack:<br>|
 |---|
@@ -46,6 +47,7 @@ Still however, while the structure had improved the information pertaining to ac
 <img src="./docs/DFDs/FeedbackMkIII.png" alt="3rd Feedback">
 Some of these were oversights simply from being up all night staring at it, and some were due to a disorganized files. Whatever the case, with the assistance of our educators the final result was approved on 02/02 much to our delight. The final DFD is compiled thusly
 <img src="./docs/DFDs/ShkrDFD.png" alt="Finalized DFD">
+
 
 ## R3 Application Architecture Diagram 
 The first draft:
@@ -94,5 +96,6 @@ __Color Pallette__
 ## R6 Screenshots of your Trello board throughout the duration of the project
 Throughout the course of this assignment we allowed ourselves at least half an hour each working day to have a standup via phone or video call. This allowed us to keep abreast of what one another were doing, explore more intricate concepts and ideas as well as hash out some of the more obscure aspects of the app such as colours and design. Zoom was particularly efficient in this instance as it allowed for screen sharing.
 
-<img src="./docs/Trello/trello1.png" alt="Trello board Day 1">
-<img src="./docs/Trello/trello2.png" alt="Trello board Day 1">
+<img src="./docs/Trello/trello1.png" alt="Trello example 1">
+<img src="./docs/Trello/trello2.png" alt="Trello example 2">
+<img src="./docs/Trello/trello3.png" alt="Trello example 3">
