@@ -64,7 +64,7 @@ The first draft:
 **Age**: 18+<br>
 **Occupation**: Any<br>
 **Location**: Home<br>
-<img src="./docs/userStory3.jpg" alt="User Story 3"  width="300"><br>
+<img src="./docs/userStory3.png" alt="User Story 3"  width="300"><br>
 **What is the problem this user requires solving**: Creating a cocktail with what I have at home. This could be to use up a particular bottle I have lying around and want to get rid of, creating a potion to imbibe with what I have on hand, exploring new ways of enjoying old favourites or impressing my friends with perfectly crafted beverages. Being able to make drinks that, at a base level, meet the standard I could expect in any bar I visit. I need to be able to **search for ingredient-specific drinks**, **look up specific drinks** or simply **browse a library** on the day before the party to see what I can conjur up to wow my guests. Information needs to be easily obtained and site feel needs to be intuitive so as to be able to be used on the fly. <br>
 
 ## R5 Wireframes
@@ -89,6 +89,6 @@ __Color Pallette__
 
 
 ## R7 
-<img src="./docs/trello-day-one.png" alt="Trello board Day 1">
+<img src="./docs/Trello/trello1.png" alt="Trello board Day 1">
 ## R6
-<img src="./docs/trello-day-one.png" alt="Trello board Day 1">
+<img src="./docs/Trello/trello2.png" alt="Trello board Day 1">
