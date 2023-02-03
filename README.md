@@ -115,7 +115,11 @@ __Color Pallette__
 
 
 ## R6 Screenshots of your Trello board throughout the duration of the project
-Throughout the course of this assignment we allowed ourselves at least half an hour each working day to have a standup via phone or video call. This allowed us to keep abreast of what one another were doing, explore more intricate concepts and ideas as well as hash out some of the more obscure aspects of the app such as colours and design. Zoom was particularly efficient in this instance as it allowed for screen sharing.
+Throughout the course of this assignment we allowed ourselves at least half an hour each working day to have a standup via phone or video call. This allowed us to keep abreast of what one another were doing, explore more intricate concepts and ideas as well as hash out some of the more obscure aspects of the app such as colours and design. Zoom was particularly efficient in this instance as it allowed for screen sharing and an almost instantaneous progression from presenting ideas to having them take shape in front of us to see if we were in agreeance.
+
+
+
+The Trello board was used to assign tasks, with each of us having essentially free reign to delegate and review tasks. Our regualr standups allowed us to know who would be delegated to do what, and time limits were set te ensure not only the comnpletion of the task at hand, but also to stop us getting distracted thinking too far ahead of time. Tasks would generally be posted, assigned and then placed in the review column with the other team member reviewing and moving it to the 'Done' Column.
 
 <img src="./docs/Trello/trello1.png" alt="Trello example 1">
 <img src="./docs/Trello/trello2.png" alt="Trello example 2">
