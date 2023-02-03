@@ -81,6 +81,7 @@ The first draft:
 **Age**: 20-40 <br>
 **Occupation**: Sales <br>
 **Location**: Specified regions within the metropolitan area <br>
+<img src="./docs/userStory2.png" alt="User Story 2"  height="300"><br>
 **What is the problem this user requires solving**: Creating an industry standard for cocktail recipes thus ensuring consistent products regardless of venue/staff member. Further to this the ability to **modify cocktail lists to replace generic words** like with brands from one's own stable, for example 'Vodka' being changed to 'Grey Goose'or Cola being changed to 'Coke' for greater brand promotion and recognition. This library needs to be **easily manipulated _by admin_** to ensure that our brand is front facing at all possible opportunities. <br>
 <br>
 <br>
@@ -90,7 +91,7 @@ The first draft:
 **Age**: 18+<br>
 **Occupation**: Any<br>
 **Location**: Home<br>
-<img src="./docs/userStory3.png" alt="User Story 3"  width="300"><br>
+<img src="./docs/userStory3.png" alt="User Story 3"  height="300"><br>
 **What is the problem this user requires solving**: Creating a cocktail with what I have at home. This could be to use up a particular bottle I have lying around and want to get rid of, creating a potion to imbibe with what I have on hand, exploring new ways of enjoying old favourites or impressing my friends with perfectly crafted beverages. Being able to make drinks that, at a base level, meet the standard I could expect in any bar I visit. I need to be able to **search for ingredient-specific drinks**, **look up specific drinks** or simply **browse a library** on the day before the party to see what I can conjur up to wow my guests. Information needs to be easily obtained and site feel needs to be intuitive so as to be able to be used on the fly. <br>
 
 ## R5 Wireframes
