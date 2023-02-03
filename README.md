@@ -18,23 +18,21 @@ The main target audiences for this app are:
 - **Bartenders** so they can keep a brand's products front and center, providing them with different experiences for the customer every time they visit
 - **Home cocktail enthusiasts** encouraging those with a mixological passion to explore new ways to create delicious drinks all the while keeping a strong presence of brand in their recipes.
 
-Tech stack:<br>
-| Application and Data | Utilities | DevOps | Business Tools|
-|:--------------------:|:---------:|:------:|:-------------:|
-|HTML 5                |JWT        |Github  |Discord        |
-|CSS                   |NPM        |Git     |Zoom           |
-|JavaScript ES6        |Postman    |VSCode  |WhatsApp       |
-|React                 |Jest       |        |Trello         |
-|Express               |Supertest  |
-|NodeJS                |
-|MongoDB               |
-|Mongoose              |
-|Helmet                |
-|Netlify               |
-|Railway               |
-|Atlas                 |
-|bcrypt                |
-|Axios                 |
+|Tech stack:<br>|
+|---|
+
+| Front End     | Back End      |Deployment| Utilities   | DevOps | Business Tools|
+|:-------------:|:-------------:|:--------:|:-----------:|:------:|:-------------:|
+|HTML 5         |JavaScript ES6 |Netlify   |Diagrams.net |Github  |Discord        |
+|CSS            |Express        |Railway   |NPM          |Git     |Zoom           |
+|JavaScript ES6 |NodeJS         |Atlas     |Postman      |VSCode  |WhatsApp       |
+|React          |MongoDB        |Axios     |Jest         |        |Trello         |
+|               |Mongoose       |          |Supertest    |
+|               |bcrypt         |          |Balsamiq     |
+|               |Helmet         |          |Lucichart    |
+|               |JWT            |
+
+
 
 ## R2 DataFlow Diagram
 The first DFD presented to the educators was admittedly not the greatest:<br>
