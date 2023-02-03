@@ -19,7 +19,21 @@ The main target audiences for this app are:
 - **Home cocktail enthusiasts** encouraging those with a mixological passion to explore new ways to create delicious drinks all the while keeping a strong presence of brand in their recipes.
 - **Brand Ambassadors/Spirit reps** so they can promote their brand and encourage a consistency of drinks throughout venues, as well as having an easy promotional tool
 
-Tech stack:
+
+|Tech stack:<br>|
+|---|
+
+| Front End     | Back End      |Deployment| Utilities   | DevOps | Business Tools|
+|:-------------:|:-------------:|:--------:|:-----------:|:------:|:-------------:|
+|HTML 5         |JavaScript ES6 |Netlify   |Diagrams.net |Github  |Discord        |
+|CSS            |Express        |Railway   |NPM          |Git     |Zoom           |
+|JavaScript ES6 |NodeJS         |Atlas     |Postman      |VSCode  |WhatsApp       |
+|React          |MongoDB        |Axios     |Jest         |        |Trello         |
+|               |Mongoose       |          |Supertest    |
+|               |bcrypt         |          |Balsamiq     |
+|               |Helmet         |          |Lucichart    |
+|               |JWT
+
 
 ## R2 DataFlow Diagram
 The first DFD presented to the educators was admittedly not the greatest:<br>
@@ -56,12 +70,18 @@ The first draft:
 **Location** Inner suburbs/CBD Bars <br>
 <img src="./docs/userStory1.png" alt="User Story 1"  width="300"><br>
 **What is the problem this user requires solving**: As a bartender I am looking for a comprehensive, easy to use recipe book that I can use quickly and discreetly to get recipes while I am mid-service behind a busy bar. I need to be able to **search by an ingredient** base in case the customer requests so as well as **browse the library** to furhter my knowledge over my lunch break. Certain drinks that may be inappropriate/illegal in my region should be **able to be removed** from search results.
+<br>
+<br>
+
 
 **Who**:The company rep/spirits ambassador <br>
 **Age**: 20-40 <br>
 **Occupation**: Sales <br>
 **Location**: Specified regions within the metropolitan area <br>
 **What is the problem this user requires solving**: Creating an industry standard for cocktail recipes thus ensuring consistent products regardless of venue/staff member. Further to this the ability to **modify cocktail lists to replace generic words** like with brands from one's own stable, for example 'Vodka' being changed to 'Grey Goose'or Cola being changed to 'Coke' for greater brand promotion and recognition. This library needs to be **easily manipulated _by admin_** to ensure that our brand is front facing at all possible opportunities. <br>
+<br>
+<br>
+
 
 **Who**: The home mixologist<br>
 **Age**: 18+<br>
