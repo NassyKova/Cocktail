@@ -94,6 +94,13 @@ The first draft:
 **What is the problem this user requires solving**: Creating a cocktail with what I have at home. This could be to use up a particular bottle I have lying around and want to get rid of, creating a potion to imbibe with what I have on hand, exploring new ways of enjoying old favourites or impressing my friends with perfectly crafted beverages. Being able to make drinks that, at a base level, meet the standard I could expect in any bar I visit. I need to be able to **search for ingredient-specific drinks**, **look up specific drinks** or simply **browse a library** on the day before the party to see what I can conjur up to wow my guests. Information needs to be easily obtained and site feel needs to be intuitive so as to be able to be used on the fly. <br>
 
 ## R5 Wireframes
+First attempt
+<img src="./docs/wireframes/wireframes_v0.1.png" alt="First Try"><br/><br/>
+Changes:
+- The map of the site 
+- added sub categories as Base Alc, Search By Name
+- Added age validation 
+
 ### Sitemap
 <img src="./docs/wireframes/Map.png" alt="Site Map"><br/><br/>
 ### Wireframes size 1024px
