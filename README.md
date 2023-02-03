@@ -25,7 +25,21 @@ The main target audiences for this app are:
 - **Bartenders** so they can keep a brand's products front and center, providing them with different experiences for the customer every time they visit
 - **Home cocktail enthusiasts** encouraging those with a mixological passion to explore new ways to create delicious drinks all the while keeping a strong presence of brand in their recipes.
 
-Tech stack:
+|Tech stack:<br>|
+|---|
+
+| Front End     | Back End      |Deployment| Utilities   | DevOps | Business Tools|
+|:-------------:|:-------------:|:--------:|:-----------:|:------:|:-------------:|
+|HTML 5         |JavaScript ES6 |Netlify   |Diagrams.net |Github  |Discord        |
+|CSS            |Express        |Railway   |NPM          |Git     |Zoom           |
+|JavaScript ES6 |NodeJS         |Atlas     |Postman      |VSCode  |WhatsApp       |
+|React          |MongoDB        |Axios     |Jest         |        |Trello         |
+|               |Mongoose       |          |Supertest    |
+|               |bcrypt         |          |Balsamiq     |
+|               |Helmet         |          |Lucichart    |
+|               |JWT            |
+
+
 
 ## R2 DataFlow Diagram
 
@@ -62,6 +76,7 @@ The first draft:
 **Age**: Mid 20's to mid 30's <br>
 **Occupation**: Bartender <br>
 **Location** Inner suburbs/CBD Bars <br>
+<img src="./docs/userStory1.png" alt="User Story 1"  height="300"><br>
 **What is the problem this user requires solving**: As a bartender I am looking for a comprehensive, easy to use recipe book that I can use quickly and discreetly to get recipes while I am mid-service behind a busy bar. I need to be able to **search by an ingredient** base in case the customer requests so as well as **browse the library** to furhter my knowledge over my lunch break. Certain drinks that may be inappropriate/illegal in my region should be **able to be removed** from search results.
 
 **Who**:The company rep/spirits ambassador <br>
