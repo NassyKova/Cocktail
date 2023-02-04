@@ -49,7 +49,7 @@ Still however, while the structure had improved the information pertaining to ac
 <img src="./docs/DFDs/DFDmkIII.png" alt="3rd DFD attempt">
 <img src="./docs/DFDs/FeedbackMkIII.png" alt="3rd Feedback">
 Some of these were oversights simply from being up all night staring at it, and some were due to a disorganized files. Whatever the case, with the assistance of our educators the final result was approved on 02/02 much to our delight. The final DFD is compiled thusly
-<img src="./docs/DFDs/ShkrDFD.png" alt="Finalized DFD">
+<img src="./docs/DFDs/ShkrDFD-final.png" alt="Finalized DFD">
 
 
 ## R3 Application Architecture Diagram 
