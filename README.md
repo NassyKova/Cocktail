@@ -5,14 +5,13 @@ __________
 - check spelling
 ________________
 
-## API 
-https://www.thecocktaildb.com/api.php
+
 
 ## T3iiA1A Anastasia Dyakova, Patrick Hamer
 
 ## R1 Description of our website
-The purpose of this website is to provide an easy to use cocktail recipe book for liquor distributors to provide to bartenders as a means of promoting their product. Arming bartenders with easy access to a multitude of recipes will allow them to keep the distributor's products front of mind and more importantly front of house and in the customer's hands.
-The website includes a library of drink recipes, searchable by ingredient. Upon searching for an ingredient a random drink using that ingredient will be provided with recipe, picture and method. The app will also provide admin users the ability to remove certain drinks from the randomizing function so that specific drinks can be excluded from the search results, as well as manipulating the database to maintain brands across different recipes.
+The purpose of this website is to create an easy to use cocktail recipe book for liquor distributors to provide to bartenders as a means of promoting their product. Arming bartenders with easy access to a multitude of recipes will allow them to keep the distributor's products front of mind and more importantly front of house and in the customer's hands.<br>
+The website includes a library of drink recipes, searchable by ingredient, name, or various other genres according to taste. Upon searching for an ingredient a random drink using that ingredient will be provided with recipe, picture and method. The app will also provide admin users the ability to remove certain drinks from the randomizing function so that specific drinks can be excluded from the search results, as well as manipulating the database to maintain brands across different recipes.
 
 The main target audiences for this app are:
 - **Bartenders** so they can keep a brand's products front and center, providing them with different experiences for the customer every time they visit, as well as ensuring consistency between colleagues.
@@ -48,7 +47,9 @@ However after taking notes, doing some more research on how to properly structur
 Still however, while the structure had improved the information pertaining to actual data being sent was still not clear enough. This was taken very serously as perperation _is_ 90% of execution, so we needed to have a solid base from which to start our app. The third attempt had only a few minor issues:
 <img src="./docs/DFDs/DFDmkIII.png" alt="3rd DFD attempt">
 <img src="./docs/DFDs/FeedbackMkIII.png" alt="3rd Feedback">
-Some of these were oversights simply from being up all night staring at it, and some were due to a disorganized files. Whatever the case, with the assistance of our educators the final result was approved on 02/02 much to our delight. The final DFD is compiled thusly
+Some of these were oversights simply from being up all night staring at it, and some were due to a disorganized files. Whatever the case, with the assistance of our educators the final result was approved on 02/02 much to our delight. <br> 
+This, of course, did not stop us. Oh no, we were excited, we were on a roll! Upon further discussion we realised that with the initial funcionality of the app we could get rid of the user login and just have an open website but with a discreet admin login available to those with authorisation. <br>
+The final DFD is compiled thusly
 <img src="./docs/DFDs/ShkrDFD-final.png" alt="Finalized DFD">
 
 
@@ -64,7 +65,7 @@ The first draft:
 - User moved to outisde of Front and Back structure
 - API clarified as a 3rf party
 ### The final version
-<img src="./docs/AAD/AAD.png" alt="Add finall">
+<img src="./docs/AAD/AAD.png" alt="Add final">
 
 ## R4 User Stories
 **Who**: The bartender. Big spirit selection, incentivised for selling branded products, upselling capabilities to the max.<br>
@@ -72,7 +73,7 @@ The first draft:
 **Occupation**: Bartender <br>
 **Location** Inner suburbs/CBD Bars <br>
 <img src="./docs/userStory1.png" alt="User Story 1"  width="300"><br>
-**What is the problem this user requires solving**: As a bartender I am looking for a comprehensive, easy to use recipe book that I can use quickly and discreetly to get recipes while I am mid-service behind a busy bar. I need to be able to **search by an ingredient** base in case the customer requests so as well as **browse the library** to furhter my knowledge over my lunch break. Certain drinks that may be inappropriate/illegal in my region should be **able to be removed** from search results.
+**What is the problem this user requires solving**: As a bartender I am looking for a comprehensive, easy to use recipe book that I can use quickly and discreetly to get recipes while I am mid-service behind a busy bar. I need to be able to **search by an ingredient** base in case the customer requests so as well as **browse the library** to further my knowledge over my lunch break. Add to this the ability to **look up certain niche drinks**, for example non-alcoholic, or shots. Also, certain drinks that may be inappropriate/illegal in my region should be **able to be removed** from search results _with administrative approval_. App should be intuitive and able to be used on the fly do allow me to continue working with minimal interruption.
 <br>
 <br>
 
@@ -82,7 +83,7 @@ The first draft:
 **Occupation**: Sales <br>
 **Location**: Specified regions within the metropolitan area <br>
 <img src="./docs/userStory2.png" alt="User Story 2"  height="300"><br>
-**What is the problem this user requires solving**: Creating an industry standard for cocktail recipes thus ensuring consistent products regardless of venue/staff member. Further to this the ability to **modify cocktail lists to replace generic words** like with brands from one's own stable, for example 'Vodka' being changed to 'Grey Goose'or Cola being changed to 'Coke' for greater brand promotion and recognition. This library needs to be **easily manipulated _by admin_** to ensure that our brand is front facing at all possible opportunities. <br>
+**What is the problem this user requires solving**: Creating an industry standard for cocktail recipes thus ensuring consistent products regardless of venue/staff member. Further to this the ability to **modify cocktail lists to replace generic words** with brands from one's own stable, for example 'Vodka' being changed to 'Grey Goose'or Cola being changed to 'Coke' for greater brand promotion and recognition. This library needs to be **easily manipulated _by admin_** to ensure that our brand is front facing at all possible opportunities. <br>
 <br>
 <br>
 
@@ -92,7 +93,7 @@ The first draft:
 **Occupation**: Any<br>
 **Location**: Home<br>
 <img src="./docs/userStory3.png" alt="User Story 3"  height="300"><br>
-**What is the problem this user requires solving**: Creating a cocktail with what I have at home. This could be to use up a particular bottle I have lying around and want to get rid of, creating a potion to imbibe with what I have on hand, exploring new ways of enjoying old favourites or impressing my friends with perfectly crafted beverages. Being able to make drinks that, at a base level, meet the standard I could expect in any bar I visit. I need to be able to **search for ingredient-specific drinks**, **look up specific drinks** or simply **browse a library** on the day before the party to see what I can conjur up to wow my guests. Information needs to be easily obtained and site feel needs to be intuitive so as to be able to be used on the fly. <br>
+**What is the problem this user requires solving**: Creating a cocktail with what I have at home. This could be to use up a particular bottle I have lying around and want to get rid of, creating a potion to imbibe with what I have on hand, exploring new ways of enjoying old favourites or impressing my friends with perfectly crafted beverages. Being able to make drinks that, at a base level, meet the standard I could expect in any bar I visit. I need to be able to **search for ingredient-specific drinks**, **look up specific drinks** or **look up random drinks based on genre** to accommodate my guest's tastes. Information needs to be easily obtained and site feel needs to be intuitive so as to be able to be used perhaps after a few taste tests. <br>
 
 ## R5 Wireframes
 ### Sitemap
