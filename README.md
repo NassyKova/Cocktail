@@ -44,17 +44,17 @@ The first DFD presented to the educators was admittedly not the greatest:<br>
 However after taking notes, doing some more research on how to properly structure the DFD and then re-presenting great progress was made:
 <img src="./docs/DFDs/DFDmkII.png" alt="2nd DFD attempt">
 <img src="./docs/DFDs/FeedbackMkII.png" alt="2nd Feedback">
-Still however, while the structure had improved the information pertaining to actual data being sent was still not clear enough. This was taken very serously as perperation _is_ 90% of execution, so we needed to have a solid base from which to start our app. The third attempt had only a few minor issues:
+Still however, while the structure had improved the information pertaining to actual data being sent was still not clear enough. This was taken very serously as preperation _is_ 90% of execution, so we needed to have a solid base from which to start our app. The third attempt had only a few minor issues:
 <img src="./docs/DFDs/DFDmkIII.png" alt="3rd DFD attempt">
 <img src="./docs/DFDs/FeedbackMkIII.png" alt="3rd Feedback">
-Some of these were oversights simply from being up all night staring at it, and some were due to a disorganized files. Whatever the case, with the assistance of our educators the final result was approved on 02/02 much to our delight. <br> 
+Some of these were oversights simply from being up all night staring at it, and some were due to disorganized files. Whatever the case, with the assistance of our educators the final result was approved on 02/02 much to our delight. <br> 
 This, of course, did not stop us. Oh no, we were excited, we were on a roll! Upon further discussion we realised that with the initial funcionality of the app we could get rid of the user login and just have an open website but with a discreet admin login available to those with authorisation. <br>
 The final DFD is compiled thusly
 <img src="./docs/DFDs/ShkrDFD-final.png" alt="Finalized DFD">
 
 
 ## R3 Application Architecture Diagram 
-The first draft:
+**The first draft:**
 <img src="./docs/AAD/AAD01.png" alt="AAD v01">
 <img src="./docs/AAD/AAD_Feedback_01.png" alt="Feedback 01">
 - Explained the connection between Front end and Back end
@@ -63,8 +63,9 @@ The first draft:
 <img src="./docs/AAD/AAD02.png" alt="AAD v0.2">
 <img src="./docs/AAD/AAD_Feedback_02.png" alt="Feedback 02">
 - User moved to outisde of Front and Back structure
-- API clarified as a 3rf party
-### The final version
+- API clarified as a 3rd party
+
+**The final version**
 <img src="./docs/AAD/AAD.png" alt="Add final">
 
 ## R4 User Stories
@@ -73,7 +74,7 @@ The first draft:
 **Occupation**: Bartender <br>
 **Location** Inner suburbs/CBD Bars <br>
 <img src="./docs/userStory1.png" alt="User Story 1"  width="300"><br>
-**What is the problem this user requires solving**: As a bartender I am looking for a comprehensive, easy to use recipe book that I can use quickly and discreetly to get recipes while I am mid-service behind a busy bar. I need to be able to **search by an ingredient** base in case the customer requests so as well as **browse the library** to further my knowledge over my lunch break. Add to this the ability to **look up certain niche drinks**, for example non-alcoholic, or shots. Also, certain drinks that may be inappropriate/illegal in my region should be **able to be removed** from search results _with administrative approval_. App should be intuitive and able to be used on the fly do allow me to continue working with minimal interruption.
+**What is the problem this user requires solving**: As a bartender I am looking for a comprehensive, easy to use recipe book that I can use quickly and discreetly to get recipes while I am mid-service behind a busy bar. I need to be able to **search by an ingredient** base in the case of customer requests as well as **browse the library** to further my knowledge over my lunch break. Add to this the ability to **look up certain niche drinks**, for example non-alcoholic, or shots. Also, certain drinks that may be inappropriate/illegal in my region should be **able to be removed** from search results _with administrative approval_. App should be intuitive and able to be used on the fly to allow me to continue working with minimal interruption.
 <br>
 <br>
 
@@ -121,7 +122,7 @@ Throughout the course of this assignment we allowed ourselves at least half an h
 
 
 
-The Trello board was used to assign tasks, with each of us having essentially free reign to delegate and review tasks. Our regualr standups allowed us to know who would be delegated to do what, and time limits were set te ensure not only the comnpletion of the task at hand, but also to stop us getting distracted thinking too far ahead of time. Tasks would generally be posted, assigned and then placed in the review column with the other team member reviewing and moving it to the 'Done' Column.
+The Trello board was used to assign tasks, with each of us having essentially free reign to delegate and review tasks. Our regualr standups allowed us to know who would be delegated to do what, and time limits were set the ensure not only the completion of the task at hand, but also to stop us getting distracted thinking too far ahead of time. Tasks would generally be posted, assigned and then placed in the review column with the other team member reviewing and moving it to the 'Done' Column.
 
 <img src="./docs/Trello/trello1.png" alt="Trello example 1">
 <img src="./docs/Trello/trello2.png" alt="Trello example 2">
