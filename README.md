@@ -62,7 +62,7 @@ The final DFD is compiled thusly
 - Added using tools
 <img src="./docs/AAD/AAD02.png" alt="AAD v0.2">
 <img src="./docs/AAD/AAD_Feedback_02.png" alt="Feedback 02">
-- User moved to outisde of Front and Back structure
+- User moved to outside of Front and Back structure
 - API clarified as a 3rd party
 
 **The final version**
