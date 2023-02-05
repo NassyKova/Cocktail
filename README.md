@@ -48,7 +48,9 @@ Still however, while the structure had improved the information pertaining to ac
 <img src="./docs/DFDs/DFDmkIII.png" alt="3rd DFD attempt">
 <img src="./docs/DFDs/FeedbackMkIII.png" alt="3rd Feedback">
 Some of these were oversights simply from being up all night staring at it, and some were due to disorganized files. Whatever the case, with the assistance of our educators the final result was approved on 02/02 much to our delight. <br> 
+<img src="./docs/whatsapp/DFD_AAD.png" alt="DFD AAD discussion"><br/>
 This, of course, did not stop us. Oh no, we were excited, we were on a roll! Upon further discussion we realised that with the initial funcionality of the app we could get rid of the user login and just have an open website but with a discreet admin login available to those with authorisation. <br>
+
 The final DFD is compiled thusly
 <img src="./docs/DFDs/ShkrDFD-final.png" alt="Finalized DFD">
 
@@ -97,13 +99,24 @@ The final DFD is compiled thusly
 **What is the problem this user requires solving**: Creating a cocktail with what I have at home. This could be to use up a particular bottle I have lying around and want to get rid of, creating a potion to imbibe with what I have on hand, exploring new ways of enjoying old favourites or impressing my friends with perfectly crafted beverages. Being able to make drinks that, at a base level, meet the standard I could expect in any bar I visit. I need to be able to **search for ingredient-specific drinks**, **look up specific drinks** or **look up random drinks based on genre** to accommodate my guest's tastes. Information needs to be easily obtained and site feel needs to be intuitive so as to be able to be used perhaps after a few taste tests. <br>
 
 ## R5 Wireframes
+<img src="./docs/whatsapp/website.png" alt="Color Discussion"><br/><br/>
 First attempt
 <img src="./docs/wireframes/wireframes_v0.1.png" alt="First Try"><br/><br/>
-Changes:
-- The map of the site 
-- added sub categories as Base Alc, Search By Name
-- Added age validation 
 
+
+__Version 0.1__
+<img src="./docs/wireframes/1024_v3.png" alt="Wireframes 1024"><br/>
+<img src="./docs/whatsapp/age_restr.png" alt="Age Restrictions discussion"><br/><br/>
+Added age validation<br/><br/>
+__Version 0.2__<br/>
+<img src="./docs/wireframes/1024_v4.png" alt="Wireframes 1024"><br/>
+Added function "Find By Name"<br/><br/>
+__Version 0.3__<br/>
+<img src="./docs/wireframes/1024_v5.png" alt="Wireframes 1024"><br/>
+<img src="./docs/whatsapp/admin.png" alt="Color Discussion"><br/><br/>
+Added admin login, admin functionality as "Update/delete cocktail" and "Update ingridient"<br/><br/>
+
+__Final Version__:
 ### Sitemap
 <img src="./docs/wireframes/Map.png" alt="Site Map"><br/><br/>
 ### Wireframes size 1024px
@@ -116,6 +129,10 @@ Changes:
 
 
 ## R6 Design
+__Thoughts__
+<img src="./docs/whatsapp/App_name.png" alt="Color Discussion"><br/><br/>
+<img src="./docs/whatsapp/color.png" alt="Color Discussion"><br/><br/>
+
 __Pinterest Board__
 <img src="./docs/pinterest.png" alt="Pinterest Board"><br/><br/>
 __Color ideas__<br/>
