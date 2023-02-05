@@ -1,6 +1,6 @@
 # Shkr! app
 __________
-# TO DO before submitting
+# TO DO before submitting.
 - change to public
 - check spelling
 ________________
