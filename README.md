@@ -51,7 +51,7 @@ Some of these were oversights simply from being up all night staring at it, and 
 <img src="./docs/whatsapp/DFD_AAD.png" alt="DFD AAD discussion"><br/>
 This, of course, did not stop us. Oh no, we were excited, we were on a roll! Upon further discussion we realised that with the initial funcionality of the app we could get rid of the user login and just have an open website but with a discreet admin login available to those with authorisation. <br>
 
-The final DFD is compiled thusly
+The final DFD is compiled thusly<br>
 <img src="./docs/DFDs/ShkrDFD-final.png" alt="Finalized DFD">
 
 
@@ -114,7 +114,8 @@ Added function "Find By Name"<br/><br/>
 __Version 0.3__<br/>
 <img src="./docs/wireframes/1024_v5.png" alt="Wireframes 1024"><br/>
 <img src="./docs/whatsapp/admin.png" alt="Color Discussion"><br/><br/>
-Added admin login, admin functionality as "Update/delete cocktail" and "Update ingridient"<br/><br/>
+Added admin login, admin functionality as "Update/delete cocktail" and "Update ingridient"<br/>
+Added relationship between screens<br/>
 
 __Final Version__:
 ### Sitemap
