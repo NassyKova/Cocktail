@@ -71,11 +71,20 @@ The final DFD is compiled thusly<br>
 <img src="./docs/AAD/AAD.png" alt="Add final"><br><br>
 
 ## R4 User Stories
+
+User stories on the surface appeared to be pretty easy to conjur up as the app is pretty straight forward. However when we started putting even just the DFD together we came to realize that in actual fact what we thought were intuitive ideas that would be easy to explain actually required further detail. The standups we were having throughout our working days were particularly helpful here as the minute we would discuss a new feature it could be incorporated into the user stories giving us a strong foundation that we could then refer back to.
+<img src ="./docs/UserStories/userStoriesAgile.png" alt="User stories agile example"><br>
+
+As you can see in the above example (taken from github comparisons), the stories were initially quite short with just a basic idea floated as to how this app would be used. As we really tried to put ourselves in the user's place though the User stories quickly expanded to include clarification of what exactly, but also _why_ the user's would require certain things. A prime example of this being that the app needs to be intuitive and simple for bartenders who are already trying to do a dozen things at once.
+Considering these circumstances made us realise a certain urgency to to this simplicity and we were able to proceed with our designs with this in mind.
+
+
+
 **Who**: The bartender. Big spirit selection, incentivised for selling branded products, upselling capabilities to the max.<br>
 **Age**: Mid 20's to mid 30's <br>
 **Occupation**: Bartender <br>
 **Location** Inner suburbs/CBD Bars <br>
-<img src="./docs/userStory1.png" alt="User Story 1"  width="300"><br>
+<img src="./docs/UserStories/userStory1.png" alt="User Story 1"  width="300"><br>
 **What is the problem this user requires solving**: As a bartender I am looking for a comprehensive, easy to use recipe book that I can use quickly and discreetly to get recipes while I am mid-service behind a busy bar. I need to be able to **search by an ingredient** base in the case of customer requests as well as **browse the library** to further my knowledge over my lunch break. Add to this the ability to **look up certain niche drinks**, for example non-alcoholic, or shots. Also, certain drinks that may be inappropriate/illegal in my region should be **able to be removed** from search results _with administrative approval_. App should be intuitive and able to be used on the fly to allow me to continue working with minimal interruption.
 <br>
 <br>
@@ -85,7 +94,7 @@ The final DFD is compiled thusly<br>
 **Age**: 20-40 <br>
 **Occupation**: Sales <br>
 **Location**: Specified regions within the metropolitan area <br>
-<img src="./docs/userStory2.png" alt="User Story 2"  height="300"><br>
+<img src="./docs/UserStories/userStory2.png" alt="User Story 2"  height="300"><br>
 **What is the problem this user requires solving**: Creating an industry standard for cocktail recipes thus ensuring consistent products regardless of venue/staff member. Further to this the ability to **modify cocktail lists to replace generic words** with brands from one's own stable, for example 'Vodka' being changed to 'Grey Goose'or Cola being changed to 'Coke' for greater brand promotion and recognition. This library needs to be **easily manipulated _by admin_** to ensure that our brand is front facing at all possible opportunities. <br>
 <br>
 <br>
@@ -95,8 +104,8 @@ The final DFD is compiled thusly<br>
 **Age**: 18+<br>
 **Occupation**: Any<br>
 **Location**: Home<br>
-<img src="./docs/userStory3.png" alt="User Story 3"  height="300"><br>
-**What is the problem this user requires solving**: Creating a cocktail with what I have at home. This could be to use up a particular bottle I have lying around and want to get rid of, creating a potion to imbibe with what I have on hand, exploring new ways of enjoying old favourites or impressing my friends with perfectly crafted beverages. Being able to make drinks that, at a base level, meet the standard I could expect in any bar I visit. I need to be able to **search for ingredient-specific drinks**, **look up specific drinks** or **look up random drinks based on genre** to accommodate my guest's tastes. Information needs to be easily obtained and site feel needs to be intuitive so as to be able to be used perhaps after a few taste tests. <br><br>
+<img src="./docs/UserStories/userStory3.png" alt="User Story 3"  height="300"><br>
+**What is the problem this user requires solving**: Creating a cocktail with what I have at home. This could be to use up a particular bottle I have lying around and want to get rid of, creating a potion to imbibe with what I have on hand, exploring new ways of enjoying old favourites or impressing my friends with perfectly crafted beverages. Being able to make drinks that, at a base level, meet the standard I could expect in any bar I visit. I need to be able to **search for ingredient-specific drinks**, **look up specific drinks** or **look up random drinks based on genre** to accommodate my guest's tastes. Information needs to be easily obtained and site feel needs to be intuitive so as to be able to be used perhaps after a few taste tests. <br>
 
 ## R5 Wireframes
 <img src="./docs/whatsapp/website.png" alt="Color Discussion"><br/><br/>
