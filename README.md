@@ -34,7 +34,7 @@ The main target audiences for this app are:
 |               |JWT            |
 |               |TheCocktailDB* |
 
-*https://www.thecocktaildb.com/
+*https://www.thecocktaildb.com/<br><br>
 
 
 ## R2 DataFlow Diagram
@@ -52,7 +52,7 @@ Some of these were oversights simply from being up all night staring at it, and 
 This, of course, did not stop us. Oh no, we were excited, we were on a roll! Upon further discussion we realised that with the initial funcionality of the app we could get rid of the user login and just have an open website but with a discreet admin login available to those with authorisation. <br>
 
 The final DFD is compiled thusly<br>
-<img src="./docs/DFDs/ShkrDFD-final.png" alt="Finalized DFD">
+<img src="./docs/DFDs/ShkrDFD-final.png" alt="Finalized DFD"><br><br>
 
 
 ## R3 Application Architecture Diagram 
@@ -68,7 +68,7 @@ The final DFD is compiled thusly<br>
 - API clarified as a 3rd party
 
 **The final version**
-<img src="./docs/AAD/AAD.png" alt="Add final">
+<img src="./docs/AAD/AAD.png" alt="Add final"><br><br>
 
 ## R4 User Stories
 **Who**: The bartender. Big spirit selection, incentivised for selling branded products, upselling capabilities to the max.<br>
@@ -96,7 +96,7 @@ The final DFD is compiled thusly<br>
 **Occupation**: Any<br>
 **Location**: Home<br>
 <img src="./docs/userStory3.png" alt="User Story 3"  height="300"><br>
-**What is the problem this user requires solving**: Creating a cocktail with what I have at home. This could be to use up a particular bottle I have lying around and want to get rid of, creating a potion to imbibe with what I have on hand, exploring new ways of enjoying old favourites or impressing my friends with perfectly crafted beverages. Being able to make drinks that, at a base level, meet the standard I could expect in any bar I visit. I need to be able to **search for ingredient-specific drinks**, **look up specific drinks** or **look up random drinks based on genre** to accommodate my guest's tastes. Information needs to be easily obtained and site feel needs to be intuitive so as to be able to be used perhaps after a few taste tests. <br>
+**What is the problem this user requires solving**: Creating a cocktail with what I have at home. This could be to use up a particular bottle I have lying around and want to get rid of, creating a potion to imbibe with what I have on hand, exploring new ways of enjoying old favourites or impressing my friends with perfectly crafted beverages. Being able to make drinks that, at a base level, meet the standard I could expect in any bar I visit. I need to be able to **search for ingredient-specific drinks**, **look up specific drinks** or **look up random drinks based on genre** to accommodate my guest's tastes. Information needs to be easily obtained and site feel needs to be intuitive so as to be able to be used perhaps after a few taste tests. <br><br>
 
 ## R5 Wireframes
 <img src="./docs/whatsapp/website.png" alt="Color Discussion"><br/><br/>
@@ -117,21 +117,21 @@ __Version 0.3__<br/>
 Added admin login, admin functionality as "Update/delete cocktail" and "Update ingridient"<br/>
 Added relationship between screens<br/>
 
-__Final Version__:
-### Sitemap
+### __Final Version__
+#### Sitemap:
 <img src="./docs/wireframes/Map.png" alt="Site Map"><br/><br/>
-### Wireframes size 1024px
+#### Wireframes size 1024px:
 <img src="./docs/wireframes/1024.png" alt="Wireframes 1024"><br/><br/>
-### Wireframes size 768px
+#### Wireframes size 768px:
 <img src="./docs/wireframes/768.png" alt="Wireframes 768"><br/><br/>
-### Wireframes size 320px
+#### Wireframes size 320px:
 <img src="./docs/wireframes/320.png" alt="Wireframes 320"><br/><br/>
 
 
 
 ## R6 Design
-__Thoughts__
-<img src="./docs/whatsapp/App_name.png" alt="Color Discussion"><br/><br/>
+__Thoughts__<br/>
+<img src="./docs/whatsapp/App_name.png" alt="App name Discussion"><br/><br/>
 <img src="./docs/whatsapp/color.png" alt="Color Discussion"><br/><br/>
 
 __Pinterest Board__
@@ -139,7 +139,7 @@ __Pinterest Board__
 __Color ideas__<br/>
 Dark theme, green forrest<br/><br/>
 __Color Pallette__
-<img src="./docs/colors.png" alt="Color Pallette">
+<img src="./docs/colors.png" alt="Color Pallette"><br><br>
 
 
 ## R6 Screenshots of your Trello board throughout the duration of the project
@@ -152,4 +152,5 @@ The Trello board was used to assign tasks, with each of us having essentially fr
 <img src="./docs/Trello/trello1.png" alt="Trello example 1">
 <img src="./docs/Trello/trello2.png" alt="Trello example 2">
 <img src="./docs/Trello/trello3.png" alt="Trello example 3">
+<img src="./docs/Trello/trello4.png" alt="Trello example 4">
 
