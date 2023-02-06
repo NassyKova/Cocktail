@@ -143,4 +143,5 @@ The Trello board was used to assign tasks, with each of us having essentially fr
 <img src="./docs/Trello/trello1.png" alt="Trello example 1">
 <img src="./docs/Trello/trello2.png" alt="Trello example 2">
 <img src="./docs/Trello/trello3.png" alt="Trello example 3">
+<img src="./docs/Trello/trello4.png" alt="Trello example 4">
 
