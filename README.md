@@ -1,11 +1,4 @@
 # Shkr! app
-__________
-# TO DO before submitting.
-- change to public
-- check spelling
-________________
-
-
 
 ## T3iiA1A Anastasia Dyakova, Patrick Hamer
 
