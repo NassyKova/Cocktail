@@ -1,12 +1,7 @@
-# Shkr! app
-__________
-# TO DO before submitting.
-- change to public
-- check spelling
-________________
+## T3A2-A Anastasia Dyakova, Patrick Hamer
+_______________
+# Shkr! app <img align="right" src="./docs/Shkr!_logo.png" alt="App logo" height="50" ><br/><br/>
 
-
-## T3iiA1A Anastasia Dyakova, Patrick Hamer
 
 ## R1 Description of our website
 The purpose of this website is to create an easy-to-use cocktail recipe book for liquor distributors to provide to bartenders as a means of promoting their product. Arming bartenders with easy access to a multitude of recipes will allow them to keep the distributor's products front of mind and more importantly front of house and in the customer's hands.<br>
@@ -134,6 +129,9 @@ __Thoughts__<br/>
 <img src="./docs/whatsapp/App_name.png" alt="App name Discussion"><br/><br/>
 <img src="./docs/whatsapp/color.png" alt="Color Discussion"><br/><br/>
 
+__Logo__<br/>
+<img src="./docs/Shkr!_logo.png" alt="App logo"  height="200"><br/><br/>
+
 __Pinterest Board__
 <img src="./docs/pinterest.png" alt="Pinterest Board"><br/><br/>
 __Color ideas__<br/>
@@ -151,5 +149,6 @@ The Trello board was used to assign tasks, with each of us having essentially fr
 <img src="./docs/Trello/trello2.png" alt="Trello example 2">
 <img src="./docs/Trello/trello3.png" alt="Trello example 3">
 <img src="./docs/Trello/trello4.png" alt="Trello example 4">
+<img src="./docs/Trello/trello5.png" alt="Trello example 5">
 
 
